@@ -1,0 +1,15 @@
+.result{
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+.result_box{
+    padding: 10px;
+    text-align: center;
+    background-color: #64e10e;
+    border-radius: 10px;
+    box-shadow: wheat;
+    padding-top: 50;
+    padding-bottom: 50px;
+    margin: 20px;
+}
